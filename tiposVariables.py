@@ -6,3 +6,4 @@ elif calificacion > 1000 :
     print("no mams")
 else :
     print("aprovo")
+    print("git")
